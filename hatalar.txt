@@ -1,0 +1,27 @@
+Metin girişinde yanlıştan sonra metin kutuları normale dönmüyor.
+Yerleştirme düzeni ekran etkinlik alanı içinde değil
+
+Erişilebilirlikte tekrar dene incele butonlarına erişim sağlayamıyorum.
+
+
+çoklu seçme etkinliğinde 
+1 resim eklediğimizde gölgeyi bana seçenek olarak sun
+2 seçili nesneyi cogaltma seçeneği koy.
+3 otomatik onarımı isteğe bağlı olarak çalıştırayım
+4 açılan renk panelinde transparan seçeneğini yok yada renk yok seçeneği (eğer bir değer yoksa renk yok demektir.)
+5 resim ve metini aynı anda eklediğimde ikisinide ayrı ayrı taşımak istiyorum. Metin resimin üstüne gelecek şekilde ayarla
+
+Sürükle bıraktada 
+resim ve metin ekleme olayları aynı
+yeni eklediğim nesnelerin başlangıç pozisyonları karışıyor
+
+çoktan seçmelide 
+soruya yeni seçenek ekle butonu olsun
+yine seçeneğe metin ve resim eklendiğinde üst üste olmalı
+
+Doğru yanlışta yeni nesne ekleyince seçenekleri kaydıramıyor büyütüp kücültemiyon
+Seçenek ekleme işin bir kontrol et
+
+
+
+Ekrandan bir slayt sildiğimde kapanış videosu çalışıyor
